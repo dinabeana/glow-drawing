@@ -3,7 +3,7 @@ Dina's Glow Drawing p5.js Vue app
 
 
 ```
-npx degit makinteract/p5js-vite my-project
+
 
 cd my-project
 npm install
