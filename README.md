@@ -1,18 +1,6 @@
-# P5.js-vite Starter Template 🚀
+Dina's Glow Drawing p5.js Vue app
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[Vite](https://vitejs.dev/) starter template to scaffold a new [p5.js](https://p5js.org) project.
-
-This is an unopinionated template; aside from P5.js and Vite, the rest of your project's tools are entirely up to you.
-
-## Live demo
-
-For a live demo please [visit this page](https://p5js-vite-demo.surge.sh).
-
-## Installation
-
-Pull the template files with [degit](https://github.com/Rich-Harris/degit) and install dependencies.
 
 ```
 npx degit makinteract/p5js-vite my-project
